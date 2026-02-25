@@ -1,0 +1,54 @@
+29 de Maio
+Mobile First --> Estratégia inicial focada em telas pequenas
+
+Tela inicial
+Drag and Drop
+6 pontos
+Meu tema --> Tesseract
+
+Enigmas/Charadas. 
+Cada charada referencia um ponto do senai. Caso a pessoa esteja naquele ponto, a charada se completa, mostra-se o resultado e o usuário vai para a próxima fase.
+Progressão de dificuldade. Níveis exigirão conhecimentos gerais e da estrutura do senai. Último nível terá uma charada mais complicada, talvez mais específica sobre o criador.
+Eu posso esconder, fisicamente, itens, em cada um dos pontos.
+Cada item pode ser um jogo(tesseract) OU peça de xadrez()
+Penso em utilizar referências acadêmicas, com diferentes áreas do conhecimento.
+
+
+
+
+
+Jornada: Do renascimento à saída da matrix
+Primeira Fase: Peão - Maquinários
+Segunda Matéria: Sociologia - Consciência de classes
+
+
+
+Segunda Fase: Cavalo - Estacionamento
+Segunda Matéria: Filosofia - Cinismo 
+
+
+
+
+Terceira Fase: Bispo - Busto Robert Bosch
+Terceira Matéria: Teologia - Livre Arbítrio
+
+
+
+
+
+
+Quarta Fase: Torre - Memorial SENAI
+Quarta Matéria: Ciências Exatas - Física, Matemática ou Tecnologia. Talvez falar sobre entropia.
+OU
+Quarta Matéria: História - Ciclo de guerras e perdas. - Memorial Senai
+
+
+
+
+
+Quinta Fase: Dama - Biblioteca
+Quinta Matéria: A arte da guerra
+
+
+Sexta Fase: Rei(Tesseract) - Auditório
+Sexta Matéria: Diplomacia e Geopolítica

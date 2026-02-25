@@ -1,0 +1,16 @@
+Escolher 1 tema
+Catálogo Interativo 
+->pelo menos 6 itens
+->título e descrição
+->botão por item
+->botão que permite favoritar/selecionar
+->contador global de itens favoritados
+->uso de useState e de map
+->acessibilidade
+
+desejáveis
+->filtro por texto/categoria
+->Empty state(mensagem sem resultados)
+->LocalStorage para persistir favoritos
+->Tema claro/escuro
+
