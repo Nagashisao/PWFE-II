@@ -1,0 +1,33 @@
+:root {
+    --bg: #79c9ff;
+
+    font-size: 16px; /* Valor padrão de 1rem = 16pxq*/
+}
+
+/* .caixa{
+    width: 800px;
+    background: var(--bg);
+    padding: 30px;
+} */
+
+.caixa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background: var(--bg);
+
+    width: 80%;
+    min-height: 20vh;
+    padding: 2rem;
+}
+
+section{
+    width: 100vw;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
